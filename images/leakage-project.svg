@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 170">
+  <rect width="220" height="170" rx="6" fill="#f7f3ed"/>
+  <path d="M25 84h45" stroke="#9a672d" stroke-width="12" stroke-linecap="round"/>
+  <path d="M70 84h26" stroke="#9a672d" stroke-width="5" stroke-dasharray="7 5"/>
+  <circle cx="108" cy="84" r="8" fill="#c76542"/>
+  <path d="M108 70v-10m-10 14-8-7m28 7 8-7" stroke="#c76542" stroke-width="3"/>
+  <path d="M125 84h26" stroke="#9a672d" stroke-width="5" stroke-dasharray="7 5"/>
+  <path d="M151 84h44" stroke="#9a672d" stroke-width="12" stroke-linecap="round"/>
+  <rect x="77" y="112" width="66" height="24" rx="4" fill="#fff" stroke="#4d6d86" stroke-width="2"/>
+  <text x="110" y="128" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#385468">SVM</text>
+  <path d="M110 105V94" stroke="#4d6d86" stroke-width="2"/>
+  <text x="14" y="151" font-family="Arial,sans-serif" font-size="11" fill="#75583a">LEAKAGE DETECTION</text>
+</svg>
